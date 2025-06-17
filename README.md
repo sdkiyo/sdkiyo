@@ -1,1 +1,1 @@
-my linux [setup](https://github.com/waflya-xleb/dotfiles), text text [resume](https://), open source [contribution list](https://), current priority project it's [shm_lib](https://github.com/waflya-xleb/shm_lib)
+my linux [setup](https://github.com/waflya-xleb/dotfiles), text text [resume](https://), open source [contribution list](https://), current priority project it's [vk_interface](https://github.com/waflya-xleb/vk_interface)
